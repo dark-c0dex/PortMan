@@ -1,27 +1,27 @@
-# Advanced Port Scanner
+# PortMan
 
-![Advanced Port Scanner](https://img.shields.io/badge/Version-1.0-blue.svg)
+![PortMan](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ## 🔥 About
 
-**Advanced Port Scanner** is a high-performance and feature-rich network scanning tool built for penetration testers, network administrators, and security enthusiasts. Developed by **Dark_c0dex**, this tool allows you to perform fast and efficient port scanning to detect open ports and services on target hosts.
+**PortMan** is a high-performance and feature-rich network scanning tool built for penetration testers, network administrators, and security enthusiasts. Developed by **Dark_C0dex**, this tool allows you to perform fast and efficient port scanning to detect open ports and services on target hosts.
 
 ## ⚡ Features
 
 - 🚀 Multi-threaded fast scanning
-- 🎯 Scan for specific or all ports
+- 🎯 Scan for  all ports
 - 🔍 Detects open ports and running services
-- 🔒 Supports both TCP & UDP scanning
+- 🔒 Supports both TCP & UDP (Udp Scan Not Availabe For Now)
 - 📊 Detailed and organized output
-- 🛠 Customizable timeout & scan options
+- 🚧 Bypasses Added
 
 ## 🛠 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dark-c0dex/Advanced-Port-Scanner.git
+https://github.com/dark-c0dex/PortMan.git
 
 # Navigate into the directory
 cd PortMan
